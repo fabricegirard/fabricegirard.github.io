@@ -1,2 +1,2 @@
 # fabricegirard.github.io
-Hello world
+<b>Hello world</b>
