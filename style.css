@@ -4,3 +4,6 @@ h1 {
 p {
     font-style: italic;
 }
+li {
+    font: bold;
+}
